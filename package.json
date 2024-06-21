@@ -1,0 +1,21 @@
+{
+  "scripts": {
+    "start": "npx ts-node ./src/main.ts",
+    "dev": "npx nodemon"
+  },
+  "dependencies": {
+    "@orbs-network/ton-access": "^2.3.3",
+    "@ton/core": "^0.56.3",
+    "@ton/crypto": "^3.2.0",
+    "@ton/ton": "^13.11.2",
+    "decimal.js": "^10.4.3",
+    "dotenv": "^16.4.5",
+    "inquirer": "^8.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.7",
+    "nodemon": "^3.1.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.2"
+  }
+}

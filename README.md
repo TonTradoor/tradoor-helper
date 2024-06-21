@@ -1,5 +1,6 @@
-![Tradoor logo](logo.svg) 
+[![Tradoor logo](logo.svg)](https://tradoor.io)
 
+# Tradoor
 A Tradoor command line tool
 
 
